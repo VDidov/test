@@ -1,0 +1,3 @@
+export const USERS_REQUEST = 'USERS_REQUEST'
+export const USERS_BAD_REQUEST = 'USERS_BAD_REQUEST'
+export const USERS_FILTER = 'USERS_FILTER'
